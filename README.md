@@ -37,6 +37,9 @@ print(p)
 0.45
 ```
 
+*WARNING*: I advise against using Piecewise defined functions for this as it
+will likely cause sympy's integration system to fail.
+
 ## Problem History
 
 I originally saw this problem presented by Ben Sparks on Numberphile https://www.youtube.com/watch?v=FkVe8qrT0LA.
