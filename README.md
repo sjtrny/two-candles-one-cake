@@ -2,11 +2,13 @@
 
 # Problem
 
-Given a rectangular and unit length cake, suppose that:
-* two candles are placed uniform at random along the length
-* a knife cuts the cake at a uniform random position along the length
+Suppose that you have a [Battenburg cake](https://en.wikipedia.org/wiki/Battenberg_cake), which is 1 unit long.
 
-**What is the probability that the knife cuts between the two candles?**
+You then:
+- place two candles at random positions along the length
+- randomly cut the cake across the length
+
+*What is the probability that the knife cuts between the two candles?*
 
 # Solution
 
