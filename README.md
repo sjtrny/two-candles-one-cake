@@ -13,7 +13,8 @@ You then:
 # Solution
 
 When the candles and knife are uniformly distributed the probability that the knife is between both candles is 
-$$P(C_{1,2}<K<C_{1,2}) = \frac{1}{3}$$
+
+$$P(C_{1,2} < K < C_{1,2}) = \frac{1}{3}$$
 
 # Working and Code
 
