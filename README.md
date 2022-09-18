@@ -25,7 +25,7 @@ A live version of the notebook can be launched on [mybinder.org](https://mybinde
 # Generalisations
 
 A prototype library is provided to calculate probabilities under different
-probability distributions for each candle and the knife.
+probability distributions.
 
 This example uses a Beta(2,2) distribution for the knife and uniform
 distribution for both candles.
