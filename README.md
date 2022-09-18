@@ -10,6 +10,8 @@ You then:
 
 *What is the probability that the knife cuts between the two candles?*
 
+<img src="https://github.com/sjtrny/two-candles-one-cake/raw/main/battenburg.jpg" width="400">
+
 # Solution
 
 When the candles and knife are uniformly distributed the probability that the knife is between both candles is 
