@@ -26,32 +26,10 @@ A live version of the notebook can be launched on [mybinder.org](https://mybinde
 
 # Generalisations
 
-A prototype library is provided to calculate probabilities under different
-probability distributions.
+TODO
 
-This example uses a Beta(2,2) distribution for the knife and uniform
-distribution for both candles.
+# Alternative Solution
 
-```
-from utils import BetaBD, UniformBD, calculate_prob
-from functools import partial
+An alternative solution using two dependent variables is presented in the [dependent-alternative](https://github.com/sjtrny/two-candles-one-cake/blob/main/dependent-alternative.ipynb) notebook.
 
-Beta22 = partial(BetaBD, a=2, b=2)
 
-p = calculate_prob(Beta22, UniformBD, UniformBD)
-
-print(p)
-```
-
-```
-0.45
-```
-
-*WARNING*: I advise against using Piecewise defined functions for this as it
-will likely cause sympy's integration system to fail.
-
-## Problem History
-
-I originally saw this problem presented by Ben Sparks on Numberphile https://www.youtube.com/watch?v=FkVe8qrT0LA.
-
-This problems seems to have been around before hand though as I found it on New Scientist https://www.newscientist.com/article/mg24232361-100-puzzle-09-the-cake-and-the-candles/

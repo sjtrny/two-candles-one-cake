@@ -1,5 +1,6 @@
 cython
 matplotlib
 numpy
+plotly
 scipy
 sympy
