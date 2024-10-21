@@ -24,7 +24,7 @@ Full working is provided in [the main notebook](https://github.com/sjtrny/two-ca
 
 A live version of the notebook can be launched on [mybinder.org](https://mybinder.org/v2/gh/sjtrny/two-candles-one-cake/HEAD?labpath=two-candles-one-cake.ipynb).
 
-# Generalisations
+# In Progress (Currently broken): Generalisations 
 
 TODO
 
