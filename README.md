@@ -1,5 +1,7 @@
 # Two Candles, One Cake
 
+Interactive visualisations here https://visual-candles-cake.apps.sjtrny.com
+
 # Problem
 
 Suppose that you have a [Battenburg cake](https://en.wikipedia.org/wiki/Battenberg_cake), which is 1 unit long.
