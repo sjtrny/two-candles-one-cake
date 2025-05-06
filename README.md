@@ -1,6 +1,6 @@
 # Two Candles, One Cake
 
-Interactive visualisations here https://visual-candles-cake.apps.sjtrny.com
+Interactive visualisations here https://visual-candles-cake.sjtrny.com
 
 # Problem
 
